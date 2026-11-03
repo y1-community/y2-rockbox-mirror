@@ -1,0 +1,198 @@
+# Operating system / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+*.log.tmp
+
+# Codex / local scratch
+.codex/sessions/
+.codex/tmp/
+.codex/visualizations/
+tmp/
+output/
+
+# Firmware images and dumps
+08_vendor_firmware_raw/
+10_device_dumps/
+Y2/
+Y2 - Stock/
+Random files/
+Flashing-tutorial-y2_v3.1.7-20260601.pdf
+*.img
+*.bin
+*.mbn
+*.rom
+*.scatter.bak
+*.apk
+*.dex
+*.odex
+*.vdex
+*.oat
+*.so
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Local tools
+00_tools/
+!00_tools/
+00_tools/*
+!00_tools/build_y2_simulator_wsl.sh
+!00_tools/run_y2_simulator_wsl.sh
+!00_tools/build_rockbox_y2_v75_route_handoff_wsl.sh
+!00_tools/build_y2_rockbox_v75_system.sh
+!00_tools/build_y2_v75_route_handoff.py
+!00_tools/validate_y2_v75_route_handoff.py
+!00_tools/build_rockbox_y2_v76_root_route_wsl.sh
+!00_tools/build_y2_rockbox_v76_system.sh
+!00_tools/build_y2_v76_root_route.py
+!00_tools/validate_y2_v76_root_route.py
+!00_tools/build_rockbox_y2_v77_release_day_gate_wsl.sh
+!00_tools/build_y2_rockbox_v77_system.sh
+!00_tools/build_y2_v77_release_day_gate.py
+!00_tools/validate_y2_v77_release_day_gate.py
+!00_tools/build_rockbox_y2_v78_hard_home_gate_wsl.sh
+!00_tools/build_y2_rockbox_v78_system.sh
+!00_tools/build_y2_v78_hard_home_gate.py
+!00_tools/validate_y2_v78_hard_home_gate.py
+!00_tools/build_rockbox_y2_v69_route_owner_wsl.sh
+!00_tools/build_y2_rockbox_v69_system.sh
+!00_tools/build_y2_v69_route_ownership.py
+!00_tools/finish_y2_v69_system_on_scratch.sh
+!00_tools/validate_y2_v69_packaged_system.sh
+!00_tools/validate_y2_v69_route_ownership.py
+!00_tools/build_rockbox_y2_v70_usb_return_guard_wsl.sh
+!00_tools/build_y2_rockbox_v70_system.sh
+!00_tools/build_y2_v70_usb_return_guard.py
+!00_tools/validate_y2_v70_packaged_system.sh
+!00_tools/validate_y2_v70_usb_return_guard.py
+!00_tools/build_rockbox_y2_v71_wake_owner_wsl.sh
+!00_tools/build_y2_rockbox_v71_system.sh
+!00_tools/build_y2_v71_wake_owner.py
+!00_tools/build_y2_v72_exclusive_home.py
+!00_tools/build_y2_v73_home_resolver_recovery.py
+!00_tools/build_rockbox_y2_v74_release_candidate_wsl.sh
+!00_tools/build_y2_rockbox_v74_system.sh
+!00_tools/build_y2_v74_release_candidate.py
+!00_tools/build_rockbox_y2_v79_release_polish_wsl.sh
+!00_tools/build_y2_rockbox_v79_system.sh
+!00_tools/build_y2_v79_release_polish.py
+!00_tools/validate_y2_v79_release_polish.py
+!00_tools/build_rockbox_y2_v80_release_gate_wsl.sh
+!00_tools/build_y2_rockbox_v80_system.sh
+!00_tools/build_y2_v80_branding.py
+!00_tools/build_y2_v80_release_gate.py
+!00_tools/validate_y2_v80_release_gate.py
+!00_tools/build_rockbox_y2_v81_continuous_handoff_wsl.sh
+!00_tools/build_y2_rockbox_v81_system.sh
+!00_tools/build_y2_v81_branding.py
+!00_tools/build_y2_v81_continuous_handoff.py
+!00_tools/validate_y2_v81_continuous_handoff.py
+!00_tools/build_y2_v82_settings_commit.py
+!00_tools/validate_y2_v82_settings_commit.py
+!00_tools/build_rockbox_y2_v83_boot_settings_ipc_wsl.sh
+!00_tools/build_y2_rockbox_v83_system.sh
+!00_tools/build_y2_v83_boot_settings_ipc.py
+!00_tools/validate_y2_v83_boot_settings_ipc.py
+!00_tools/build_rockbox_y2_v84_coherent_boot_settings_wsl.sh
+!00_tools/build_y2_rockbox_v84_system.sh
+!00_tools/y2_v84_boot_route_broker.sh
+!00_tools/build_y2_v84_coherent_boot_settings.py
+!00_tools/validate_y2_v84_coherent_boot_settings.py
+!00_tools/build_y2_v84r1_innioasis_updater_full.py
+!00_tools/validate_y2_v84r1_innioasis_updater_full.py
+!00_tools/build_rockbox_y2_v85_simple_boot_choice_wsl.sh
+!00_tools/build_y2_rockbox_v85_system.sh
+!00_tools/y2_v85_boot_choice_broker.sh
+!00_tools/build_y2_v85_innioasis_updater_full.py
+!00_tools/validate_y2_v85_simple_boot_choice.py
+!00_tools/build_rockbox_y2_v86_boot_save_repair_wsl.sh
+!00_tools/build_y2_rockbox_v86_system.sh
+!00_tools/y2_v86_boot_save_broker.sh
+!00_tools/build_y2_v86_innioasis_updater_full.py
+!00_tools/validate_y2_v86_boot_save_repair.py
+!00_tools/test_y2_v86_boot_save_broker.py
+!00_tools/build_rockbox_y2_v87_vendor_shell_save_wsl.sh
+!00_tools/build_y2_rockbox_v87_system.sh
+!00_tools/y2_v87_boot_save_broker.sh
+!00_tools/build_y2_v87_innioasis_updater_full.py
+!00_tools/validate_y2_v87_vendor_shell_save.py
+!00_tools/test_y2_v87_boot_save_broker.py
+!00_tools/build_rockbox_y2_v88_route_readback_repair_wsl.sh
+!00_tools/build_y2_rockbox_v88_system.sh
+!00_tools/build_y2_v88_innioasis_updater_full.py
+!00_tools/validate_y2_v88_route_readback_repair.py
+!00_tools/build_y2_beta_v0_1_0_guide.py
+!00_tools/assemble_y2_beta_v0_1_0_release.py
+!00_tools/assemble_y2_beta_v0_2_0_release.py
+!00_tools/build_y2_mac_rom.py
+!00_tools/validate_y2_beta_v0_2_0_release.py
+!00_tools/build_rockbox_y2_v89_usb_display_restore_wsl.sh
+!00_tools/build_y2_rockbox_v89_system.sh
+!00_tools/build_y2_v89_innioasis_updater_full.py
+!00_tools/validate_y2_v89_usb_display_restore.py
+13_external_tools/
+hwparam.json
+
+# Large/generated extraction outputs
+09_vendor_firmware_extracted/**
+!09_vendor_firmware_extracted/
+!09_vendor_firmware_extracted/*.md
+!09_vendor_firmware_extracted/*.txt
+!09_vendor_firmware_extracted/*.csv
+!09_vendor_firmware_extracted/*.py
+
+# Build products
+12_build_outputs/
+build-intermediates/
+evidence/
+local-review/
+.migration-empty-source/
+build/
+out/
+dist/
+.gradle/
+.idea/
+local.properties
+
+# Keep source and docs trackable
+!README.md
+!CODEX.md
+!00_project_docs/
+!04_theme_analysis/
+!11_rockbox_android/
+!13_patches/
+!Progress logs/
+
+# Keep portable validation summaries, but leave raw device captures local.
+Progress logs/**
+!Progress logs/
+!Progress logs/*-offline-validation/
+!Progress logs/*-offline-validation/validation.json
+!Progress logs/*-offline-validation/validation-summary.txt
+!Progress logs/*-offline-validation/v*-generic-*.md
+!Progress logs/*-offline-validation/v*-generic-*.json
+!Progress logs/*-offline-validation/v*-official-stock-*.md
+!Progress logs/*-offline-validation/v*-official-stock-*.json
+!Progress logs/*-offline-validation/v*-structural-*.md
+!Progress logs/*-offline-validation/v*-structural-*.json
+!Progress logs/*-offline-validation/v*-reproducibility.*
+!Progress logs/*-offline-validation/V*_HANDOFF*.md
+!Progress logs/*-physical-*/
+Progress logs/*-physical-/**
+!Progress logs/*-physical-*/README.md
+!Progress logs/*-physical-*/evidence-summary.md
+!Progress logs/v88-persistent-display-scaling-20260729/
+Progress logs/v88-persistent-display-scaling-20260729/**
+!Progress logs/v88-persistent-display-scaling-20260729/evidence-summary.md
+
+# Transient removable-media status pages.
+00_project_docs/SD_CARD_EJECTED*.html
+
+# Superseded generated dashboards retained only as local references.
+00_project_docs/Y2_RECENT_BUILD_TEST_EXPLAINER.html
+00_project_docs/Y2_RELEASE_READINESS_20260718.html
