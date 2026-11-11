@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-11T01:05:43Z",
+  "generated_at": "2026-11-11T01:46:58Z",
   "source_repo": "spycemagic/y2-rockbox",
   "mirror_repo": "y1-community/y2-rockbox-mirror",
   "title_prefix": "Portable Flashing Package: ",
@@ -64,7 +64,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 721510064,
-          "sha256": "0c7de960d30cbfb5a61e61f03fd81a75d90852a76e08052995d63ae1210e9c31",
+          "sha256": "50f08ff4d77926edcf7a078595752cf3ec4ece04bc6660dd37bf225c5b6314c2",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.2.5-beta/rom_y2-linux.zip"
         },
         {
@@ -74,7 +74,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 546415006,
-          "sha256": "d779685ea9a15b09c1811533487b78fb32d8714d089920728f49622984261b40",
+          "sha256": "b433bec6451c322a1d33b75b4bb154a16a3062f1b3e080d98f18ea319da2ce34",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.2.5-beta/rom_y2-linux-arm64.zip"
         },
         {
@@ -84,7 +84,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 481360883,
-          "sha256": "3cf1020f306c1f14b59747d992eb336a8f456e7db34d6a191bdb9e0436848927",
+          "sha256": "7bbf97d0e44a174d9168703ca37183ec61099e9dd4afc707df7686fc1db868a1",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.2.5-beta/rom_y2-macos.zip"
         },
         {
@@ -93,8 +93,8 @@
           "platform": "windows",
           "model": "Y2",
           "type": "Stock",
-          "size": 567389710,
-          "sha256": "6d73a6d0e57ef3e1ee8e7e558a6326cbc519ff0c0d60bfb8706b839a3fe8fa8c",
+          "size": 597638548,
+          "sha256": "73d47800faacf45375ac09605fe2aba90e6dddd5be127097771ff44cdec275ae",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.2.5-beta/rom_y2-windows.zip"
         }
       ],
@@ -127,7 +127,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 721637460,
-          "sha256": "d0beff15c988091aeb85e7625e4edf68a7553f9d1edd6435cc7220afe8d9be78",
+          "sha256": "796d7f0d639584ce09ed22d152d6a7c0f8a4eba57fdf77595a6fdd9187680b11",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.2.0-beta/Y2-Rockbox-Beta-v0.2.0-UPDATE-ONLY-linux.zip"
         },
         {
@@ -137,7 +137,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 546542402,
-          "sha256": "1ddeead86ed28502e4679ad797b36ae9c3e48ce7a285e2fcce97ed03ea8635c0",
+          "sha256": "984c0f78ce89833d81bcba1bfe7df60b04c93372f412056c0ccbc328c57f97f8",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.2.0-beta/Y2-Rockbox-Beta-v0.2.0-UPDATE-ONLY-linux-arm64.zip"
         },
         {
@@ -147,7 +147,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 481488362,
-          "sha256": "561e4f747dd3a8d1b9dd772cbabfb30440e9d89c402a7ef5a030caf10a14eb9e",
+          "sha256": "577670c4d718ca4dc133ce37cf3e3f53969c821c674f9af78288a99e1a22b108",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.2.0-beta/Y2-Rockbox-Beta-v0.2.0-UPDATE-ONLY-macos.zip"
         },
         {
@@ -156,8 +156,8 @@
           "platform": "windows",
           "model": "Y2",
           "type": "Stock",
-          "size": 567517106,
-          "sha256": "fda8637641ce6f6df59030c09f0190a30fee68b86e1afec1f8b5e95f643f96fa",
+          "size": 597765944,
+          "sha256": "11784b0f11fea9f1d575cc1914a46b196a38a81165dc0ad5b18f7e15a186ffa2",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.2.0-beta/Y2-Rockbox-Beta-v0.2.0-UPDATE-ONLY-windows.zip"
         },
         {
@@ -167,7 +167,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 721637460,
-          "sha256": "f35b15da5b393c27e187be6c348d5605b8d3559877ad44294268fc00f0092e73",
+          "sha256": "e1a95324d6780aa541cca030e4c39296c98d2027cf1255eba6a880a58e7d07c1",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.2.0-beta/Y2-Rockbox-Beta-v0.2.0-Windows-UPDATE-ONLY-linux.zip"
         },
         {
@@ -177,7 +177,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 546542402,
-          "sha256": "17053562303151d4d7b649a15663a1eb6a2d66a972b3558113a6e989f73f6747",
+          "sha256": "aecaab7250beec77703022271d92ba5dc3bb0c7a7b39474b87288588238de0a0",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.2.0-beta/Y2-Rockbox-Beta-v0.2.0-Windows-UPDATE-ONLY-linux-arm64.zip"
         },
         {
@@ -187,7 +187,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 481488368,
-          "sha256": "c400c299ecee3e388142d3c28179bb3183ecb7e541c35e94ff23902717576518",
+          "sha256": "1f3def1a37c2a3a8e72bfee41a9996a010e6613e36766bf68b71e219fd88d31d",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.2.0-beta/Y2-Rockbox-Beta-v0.2.0-Windows-UPDATE-ONLY-macos.zip"
         },
         {
@@ -196,8 +196,8 @@
           "platform": "windows",
           "model": "Y2",
           "type": "Stock",
-          "size": 567517106,
-          "sha256": "31a695819ffeb10900aee601acb5877dc4799da0c328351ce91daed8f45a905c",
+          "size": 597765944,
+          "sha256": "c7edd7510dc0f918ddfe0fdd270c2eebfa03901eb8d6f4e86a654af6a03b240b",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.2.0-beta/Y2-Rockbox-Beta-v0.2.0-Windows-UPDATE-ONLY-windows.zip"
         }
       ],
@@ -234,7 +234,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 721706540,
-          "sha256": "129abca476c2edfda466a2c91ded8f1b0293e28e1236b5b1bcc173d53cc4bcb0",
+          "sha256": "650cec72b1a41c7dfc9185c60d8ca73bf046dfc4bfa2904028c038940c57b46b",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.1.0-beta/Y2-Rockbox-Beta-v0.1.0-V88-InnioasisUpdater-linux.zip"
         },
         {
@@ -244,7 +244,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 546611482,
-          "sha256": "b03be6d477df3ad58d84ead5322d6332d2fa1a4fc10bddeba79ebe7b775e0165",
+          "sha256": "3148aa29ff49a6c3d4d0243128b0ed20896abced07979effd3c45c247c98acd6",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.1.0-beta/Y2-Rockbox-Beta-v0.1.0-V88-InnioasisUpdater-linux-arm64.zip"
         },
         {
@@ -254,7 +254,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 481557370,
-          "sha256": "308e8b62ee9e4e02d03f08a3c34fdb8c873ba9e1bbc59052446f34fd372ae9b3",
+          "sha256": "3248dea78c90c8c0f34e8240c6c1f5849fc7d40b7ccbe9b095089d226c7aa4b0",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.1.0-beta/Y2-Rockbox-Beta-v0.1.0-V88-InnioasisUpdater-macos.zip"
         },
         {
@@ -263,8 +263,8 @@
           "platform": "windows",
           "model": "Y2",
           "type": "Stock",
-          "size": 567586186,
-          "sha256": "ac00ac4c33056be8c510c71096f856221d8636df44ff528e56d5e4144f496212",
+          "size": 597835024,
+          "sha256": "baf2638b77d93c9bcf61f37c2a091a7c9750515a7c96120539daf7cd19d20f7f",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.1.0-beta/Y2-Rockbox-Beta-v0.1.0-V88-InnioasisUpdater-windows.zip"
         },
         {
@@ -274,7 +274,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 721706540,
-          "sha256": "a4f02f7dd3d16762652ba727c16819a919ca63b51f78bd7a8f6f723d58f17708",
+          "sha256": "dbccd058f0537a29644593bac37e513714a5db074486be290710711442e7bb21",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.1.0-beta/rom_y2-linux.zip"
         },
         {
@@ -284,7 +284,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 546611482,
-          "sha256": "84bb3fcdc8f8c1beea32cb79023702eebc6ef4d9bc0ce7bf77f8e2287a4adb72",
+          "sha256": "7f4b0201841fdb2ca75d2111b1326fc0f710d92da7fc84dcc5fa3c98c3b16b75",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.1.0-beta/rom_y2-linux-arm64.zip"
         },
         {
@@ -294,7 +294,7 @@
           "model": "Y2",
           "type": "Stock",
           "size": 481557348,
-          "sha256": "d77824298dbe24963d11b95e843a6007e4e04e70a328ecc0c650a10ef5d9ad88",
+          "sha256": "a226da108e8941f81624290afe23de9e31446b1d91a78ba6a73a51ab2ca47c33",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.1.0-beta/rom_y2-macos.zip"
         },
         {
@@ -303,8 +303,8 @@
           "platform": "windows",
           "model": "Y2",
           "type": "Stock",
-          "size": 567586186,
-          "sha256": "b3a3d0c345bae5291a025cd136652d878bc8b9708e21615a47c54a84bab4fa1d",
+          "size": 597835024,
+          "sha256": "4a6f9892c43b9d5dc2309331cf191c180250c8946c56a135dede8820eb7caa32",
           "url": "https://github.com/y1-community/y2-rockbox-mirror/releases/download/v0.1.0-beta/rom_y2-windows.zip"
         }
       ],
