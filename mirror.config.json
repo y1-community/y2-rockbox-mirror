@@ -4,6 +4,8 @@
   "branch": "main",
   "updater_repo": "y1-community/updater-ce-neo",
   "post_install": [],
+  "post_install2": [],
+  "icon": "https://sc.filehippo.net/images/t_app-icon-l/p/c9b4d9fa-9b65-11e6-a6e7-00163ec9f5fa/2907264561/rockbox-icon.png",
   "title_prefix": "Portable Flashing Package: ",
   "copy_original_assets": true,
   "source_readme": {
